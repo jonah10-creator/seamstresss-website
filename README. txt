@@ -1,0 +1,22 @@
+SEAMSTRESS BUSINESS WEBSITE
+This website was built usin:
+-HTML5
+-CSS3 (Flexbox and grid)
+Responsive design.
+
+FEATURES:
+-hero section
+-About section
+-Services
+-Gallery
+-Contact with whatsAPP 
+link
+-Mobile Responsive
+
+HOW TO USE:
+1.open index.html in a browser
+2.  Edit text inside index.html to update content
+3.Replace images in assets/images folder
+4. update whatsApp number in contact section
+
+created by: jonah nwojo
